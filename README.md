@@ -8,92 +8,85 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sensational--dodol--5c6d0e.netlify.app-7C3AED?style=for-the-badge)](https://sensational-dodol-5c6d0e.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Ver_sitio-7C3AED?style=for-the-badge)](https://sensational-dodol-5c6d0e.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56992266264)
-[![Gmail](https://img.shields.io/badge/bangixstudio@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bangixstudio@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Transformamos ideas en experiencias digitales
-
-Creamos **páginas web profesionales, modernas y funcionales** para emprendedores, negocios y marcas que quieren fortalecer su presencia digital. Combinamos **tecnología, diseño y creatividad** para desarrollar sitios atractivos, claros y adaptados a cada cliente.
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bangixstudio@gmail.com)
 
 <br/>
 
-| 🏆 50+ | 😊 30+ | ⚡ 99% | 🕐 24/7 |
-|:---:|:---:|:---:|:---:|
-| **Proyectos entregados** | **Clientes satisfechos** | **Uptime garantizado** | **Soporte técnico** |
+### 🚀 Transformamos ideas en experiencias digitales
+
+Creamos **páginas web profesionales, modernas y funcionales** para emprendedores, negocios y marcas<br/>
+que quieren fortalecer su presencia digital. Combinamos **tecnología, diseño y creatividad**<br/>
+para desarrollar sitios atractivos, claros y adaptados a cada cliente.
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🏆 50+</b></td>
+    <td align="center"><b>😊 30+</b></td>
+    <td align="center"><b>⚡ 99%</b></td>
+    <td align="center"><b>🕐 24/7</b></td>
+  </tr>
+  <tr>
+    <td align="center">Proyectos entregados</td>
+    <td align="center">Clientes satisfechos</td>
+    <td align="center">Uptime garantizado</td>
+    <td align="center">Soporte técnico</td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🛠️ Nuestros Servicios
+<h2 align="center">🛠️ Nuestros Servicios</h2>
+
+<div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### 🌐 Desarrollo Web
-Sitios modernos, rápidos y responsive con las últimas tecnologías.
-
-`Landing Pages` `Sitios Corporativos` `Portales Web` `Blogs`
-
+    <td align="center" width="33%">
+      <h3>🌐 Desarrollo Web</h3>
+      <p>Sitios modernos, rápidos y responsive<br/>con las últimas tecnologías.</p>
+      <code>Landing Pages</code> <code>Sitios Corporativos</code> <code>Portales Web</code> <code>Blogs</code>
     </td>
-    <td width="50%" valign="top">
-
-### 📱 Aplicaciones Móviles
-Apps nativas y multiplataforma para iOS y Android con alto rendimiento.
-
-`React Native` `Flutter` `Apps Nativas` `PWA`
-
+    <td align="center" width="33%">
+      <h3>📱 Aplicaciones Móviles</h3>
+      <p>Apps nativas y multiplataforma<br/>para iOS y Android.</p>
+      <code>React Native</code> <code>Flutter</code> <code>Apps Nativas</code> <code>PWA</code>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🛒 E-Commerce
-Tiendas online completas con pasarelas de pago e inventario integrado.
-
-`Shopify` `WooCommerce` `Custom Stores` `Marketplaces`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🎨 Diseño UI/UX
-Interfaces intuitivas y atractivas que mejoran la experiencia del usuario.
-
-`Prototipado` `Design Systems` `User Research` `Branding`
-
+    <td align="center" width="33%">
+      <h3>🛒 E-Commerce</h3>
+      <p>Tiendas online con pasarelas de pago<br/>e inventario integrado.</p>
+      <code>Shopify</code> <code>WooCommerce</code> <code>Custom Stores</code> <code>Marketplaces</code>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
-### ⚙️ Backend & APIs
-Arquitecturas robustas, APIs RESTful, bases de datos y cloud escalables.
-
-`Node.js` `Python` `Java` `Bases de datos` `Cloud`
-
+    <td align="center" width="33%">
+      <h3>🎨 Diseño UI/UX</h3>
+      <p>Interfaces intuitivas que mejoran<br/>la experiencia del usuario.</p>
+      <code>Prototipado</code> <code>Design Systems</code> <code>User Research</code> <code>Branding</code>
     </td>
-    <td width="50%" valign="top">
-
-### 📈 SEO & Marketing Digital
-Posicionamiento y marketing para que tu negocio sea visible online.
-
-`SEO On-page` `Google Ads` `Analytics` `Social Media`
-
+    <td align="center" width="33%">
+      <h3>⚙️ Backend & APIs</h3>
+      <p>Arquitecturas robustas, APIs RESTful<br/>y servicios cloud escalables.</p>
+      <code>Node.js</code> <code>Python</code> <code>Java</code> <code>Cloud</code>
+    </td>
+    <td align="center" width="33%">
+      <h3>📈 SEO & Marketing</h3>
+      <p>Posicionamiento y marketing para<br/>que tu negocio sea visible online.</p>
+      <code>SEO On-page</code> <code>Google Ads</code> <code>Analytics</code> <code>Social Media</code>
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
 
-## 💻 Stack Tecnológico
+<h2 align="center">💻 Stack Tecnológico</h2>
 
 <div align="center">
 
@@ -130,38 +123,54 @@ Posicionamiento y marketing para que tu negocio sea visible online.
 
 ---
 
-## 🔄 Nuestro Proceso
-
-```
-  01  💬  Consulta Inicial    →  Escuchamos tus necesidades y definimos objetivos
-  02  🎨  Diseño & Prototipo  →  Wireframes y prototipos antes de desarrollar
-  03  💻  Desarrollo          →  Código limpio con tecnologías de vanguardia
-  04  🚀  Lanzamiento         →  Deploy optimizado y soporte continuo
-```
-
----
-
-## 📬 Contáctanos
+<h2 align="center">🔄 Nuestro Proceso</h2>
 
 <div align="center">
 
-¿Tienes un proyecto en mente? **Cuéntanos y lo hacemos realidad.**
-
-[![WhatsApp](https://img.shields.io/badge/Escribir%20por%20WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56992266264?text=Hola!%20Me%20interesa%20conocer%20m%C3%A1s%20sobre%20sus%20servicios%20de%20desarrollo.)
-[![Gmail](https://img.shields.io/badge/bangixstudio@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bangixstudio@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Ver%20Portfolio-%237C3AED.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sensational-dodol-5c6d0e.netlify.app/)
-
-🕐 Atención: Lunes a Viernes, 9:00 AM – 6:00 PM &nbsp;·&nbsp; 📍 Remoto — Global
-
-<br/>
-
-> *"Tu visión digital, nuestra misión."*
+<table>
+  <tr>
+    <td align="center"><b>01</b></td>
+    <td>💬 <b>Consulta Inicial</b> — Escuchamos tus necesidades y definimos objetivos</td>
+  </tr>
+  <tr>
+    <td align="center"><b>02</b></td>
+    <td>🎨 <b>Diseño & Prototipo</b> — Wireframes y prototipos antes de desarrollar</td>
+  </tr>
+  <tr>
+    <td align="center"><b>03</b></td>
+    <td>💻 <b>Desarrollo</b> — Código limpio con tecnologías de vanguardia</td>
+  </tr>
+  <tr>
+    <td align="center"><b>04</b></td>
+    <td>🚀 <b>Lanzamiento & Soporte</b> — Deploy optimizado y soporte continuo</td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
+<h2 align="center">📬 Contáctanos</h2>
+
 <div align="center">
+
+¿Tienes un proyecto en mente? **Cuéntanos y lo hacemos realidad.**
+
+<br/>
+
+[![WhatsApp](https://img.shields.io/badge/Escribir%20por%20WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/56992266264?text=Hola!%20Me%20interesa%20conocer%20m%C3%A1s%20sobre%20sus%20servicios%20de%20desarrollo.)
+[![Gmail](https://img.shields.io/badge/bangixstudio@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bangixstudio@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Ver%20Portfolio-%237C3AED.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sensational-dodol-5c6d0e.netlify.app/)
+
+<br/>
+
+🕐 Lunes a Viernes, 9:00 AM – 6:00 PM &nbsp;·&nbsp; 📍 Remoto — Global
+
+<br/>
+
+> *"Tu visión digital, nuestra misión."*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED,4F46E5,06B6D4&height=120&section=footer&animation=fadeIn" width="100%"/>
 
