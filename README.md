@@ -12,9 +12,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Ver_Portafolio-sensational--dodol-7C3AED?style=for-the-badge&logoColor=white)](https://sensational-dodol-5c6d0e.netlify.app/)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logoColor=white)](https://wa.me/56992266264)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white)](mailto:bangixstudio@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Ver_Portafolio-BangixStudio-7C3AED?style=for-the-badge&labelColor=1a1a2e&logoColor=white)](https://sensational-dodol-5c6d0e.netlify.app/)
+&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Escríbenos-25D366?style=for-the-badge&labelColor=1a1a2e&logoColor=white)](https://wa.me/56992266264)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/📧_Email-Contáctanos-EA4335?style=for-the-badge&labelColor=1a1a2e&logoColor=white)](mailto:bangixstudio@gmail.com)
 
 <br/><br/>
 
@@ -234,9 +236,11 @@ para emprendedores, negocios y marcas que quieren crecer en el mundo digital.
 
 <br/>
 
-[![WhatsApp](https://img.shields.io/badge/💬_Escribir_por_WhatsApp-25D366?style=for-the-badge)](https://wa.me/56992266264?text=Hola!%20Me%20interesa%20conocer%20m%C3%A1s%20sobre%20sus%20servicios%20de%20desarrollo.)
-[![Email](https://img.shields.io/badge/📧_bangixstudio@gmail.com-EA4335?style=for-the-badge)](mailto:bangixstudio@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Ver_Portafolio-7C3AED?style=for-the-badge)](https://sensational-dodol-5c6d0e.netlify.app/)
+[![WhatsApp](https://img.shields.io/badge/💬_Escribir_por_WhatsApp-25D366?style=for-the-badge&labelColor=1a1a2e&logoColor=white)](https://wa.me/56992266264?text=Hola!%20Me%20interesa%20conocer%20m%C3%A1s%20sobre%20sus%20servicios%20de%20desarrollo.)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/📧_bangixstudio@gmail.com-EA4335?style=for-the-badge&labelColor=1a1a2e&logoColor=white)](mailto:bangixstudio@gmail.com)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Ver_Portafolio-BangixStudio-7C3AED?style=for-the-badge&labelColor=1a1a2e&logoColor=white)](https://sensational-dodol-5c6d0e.netlify.app/)
 
 <br/>
 
